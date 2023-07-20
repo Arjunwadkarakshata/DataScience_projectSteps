@@ -26,7 +26,7 @@ vii)Detecting outliers: boxplot,Z score,IQR
 viii)Checking Data balancing
 
 # Feature Engineering :
-Feture Engineering include the steps below steps:
+Feature Engineering include the steps below steps:
 
 a)Droping duplicates values
 b)Missing value handling
